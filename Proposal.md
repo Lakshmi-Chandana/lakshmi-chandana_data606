@@ -35,7 +35,7 @@ The source for this data is CDC(Centers for Disease Control and Prevention), Div
 
 Link for the [Dataset](https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Local-Data-for-Better-Health-2018-relea/rja3-32tc)
 
-* This dataset was first created on December 4th, 2019.
+* This dataset was first created in 2018.
 * Last release was on December 5th, 2019.
 * Size of dataset is 224.276 MB.
 * The dataset has 810k rows and 24 columns.
