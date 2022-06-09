@@ -40,6 +40,10 @@ Link for the [Dataset](https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-
 * This dataset was first created on December 4th, 2019 and this was last updated on December 5th, 2019.
 * Size of dataset is 224.276 MB.
 * The dataset has 810k rows and 24 columns.
+* Below table gives more information on the columns of the data.
+
+![image](https://user-images.githubusercontent.com/78044715/172914622-dc09dd3c-ec37-4561-a2ae-a4d695e430f2.png)
+
 * Dataset has information from 500 cities from the US which helps in bringing out data for better health.
 * Attributes of the dataset are like states, city names, geographic level, datasource category, unique ID, measure, data value, low confidence limit, high confidence limit, population count, geolocation and short question text.
 * Each row represents an estimate from various cities with a unique ID and on what measures it was taken with a measureID as well from the years 2015 and 2016. It was provided with a geographical location and geographical level like US or City or Census tract, from where the estimate was collected.
