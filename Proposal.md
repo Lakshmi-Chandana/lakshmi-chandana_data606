@@ -63,7 +63,7 @@ We plan to use cities, states, measure and measureID for our analysis.
 
 ## How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?
 
-We are planning the metrics such as recall, accuract, f-1 score and confusion matrix.
+We are planning the metrics such as recall, accuracy, f-1 score and confusion matrix.
 
 ## What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practicle applications, etc)?
 
